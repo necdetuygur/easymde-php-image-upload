@@ -7,6 +7,11 @@
     <title>Example / Preview</title>
     <link rel="stylesheet" href="easymde.min.css" />
     <script src="easymde.min.js"></script>
+    <style>
+      body {
+        font: 1rem arial;
+      }
+    </style>
   </head>
   <body>
     <textarea></textarea>
